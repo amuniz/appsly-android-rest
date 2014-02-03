@@ -1,4 +1,7 @@
 [![Build Status][3]][4]
+
+![Status](https://clinker.47deg.com/desktop/plugin/public/status/appsly-android-rest)
+
 # Appsly Android REST
 
 Async Android client library for [RESTful](http://en.wikipedia.org/wiki/Representational_state_transfer) services.
