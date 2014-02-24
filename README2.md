@@ -1,3 +1,3 @@
-[![Build Status](https://clinker.47deg.com/desktop/plugin/public/status/appsly-android-rest.png)](https://clinker.47deg.com/jenkins/view/Appsly/job/appsly-android-rest)
+[![Build Status](https://clinker.47deg.com/desktop/plugin/public/status/appsly-android-rest.png)](https://clinker.47deg.com/jenkins/view/Appsly/job/appsly-android-rest/)
 
 Hola
